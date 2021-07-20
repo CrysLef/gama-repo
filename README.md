@@ -1,6 +1,5 @@
-<h1 style='display: flex; flex-direction:column; align-items:center;font-weight:700'>
+<h1 align="center">
     <img alt='Logo do Gama Repo' src='public/folder.svg' width='100px'>
-    Gama Repo
 </h1>
 
 <br>
